@@ -3,9 +3,11 @@
 # Hangman
 This is basic c++ project(console) made using Visual Studio.
 
-##Concept Used
+## Concept Used
   File Handling
+  <br>
   OOP
+  <br>
   Sound Handling
 
 ## 🛠 Skills
