@@ -16,7 +16,7 @@ winform, C#, Visual Studio
 
 ## Screenshots
 
-![App Screenshot](https://github.com/imumer12/Car-Game/blob/main/Car%20game1.png)
+![App Screenshot](https://github.com/imumer12/Hangman/blob/main/Resources/Hangman.png)
 
 
 ## License
