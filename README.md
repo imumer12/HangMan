@@ -4,11 +4,11 @@
 This is basic c++ project(console) made using Visual Studio.
 
 ## Concept Used
-  File Handling
+  -> File Handling
   <br>
-  OOP
+  -> OOP
   <br>
-  Sound Handling
+  -> Sound Handling
 
 ## 🛠 Skills
 winform, C#, Visual Studio
