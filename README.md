@@ -3,15 +3,8 @@
 # Hangman
 This is basic c++ project(console) made using Visual Studio.
 
-## Concept Used
-  -> File Handling
-  <br>
-  -> OOP
-  <br>
-  -> Sound Handling
-
 ## 🛠 Skills
-winform, C#, Visual Studio
+C++, Sound Handling, OOP, File Handling
 
 
 ## Screenshots
